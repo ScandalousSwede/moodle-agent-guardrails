@@ -1,0 +1,32 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+*.env
+*.log
+
+# Secrets
+*_key.json
+*_creds.json
+*credentials*.json
+*token*.pickle
+*token*.json
+generated_tokens.txt
+tokens.json
+
+# Data / runtime artifacts
+data/
+*.db
+*.db-wal
+*.db-shm
+logs/
+*.wav
+*.mp3
+temp/
+
+# IDE
+.vscode/
+.idea/
