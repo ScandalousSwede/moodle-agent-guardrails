@@ -3,11 +3,11 @@ openai>=1.0.0  # For OpenAI API access
 openai-agents>=0.0.4  # OpenAI Agents SDK (latest version)
 pydantic>=2.0.0  # Data modeling and validation
 python-dotenv>=1.0.0  # Environment variable management
-requests==2.31.0  # HTTP requests library
+requests==2.34.2  # HTTP requests library
 httpx>=0.24.0  # HTTP requests library
 tenacity>=8.2.0  # Retry functionality for API calls
 json5>=0.9.14  # Enhanced JSON parsing
-typer==0.12.1  # CLI application framework
+typer==0.12.5  # CLI application framework
 
 # CLI and UI
 rich>=13.4.2  # Rich text and formatting for terminal output
